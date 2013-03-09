@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="codestrong">Codestrong</string>
+	<string name="email">E-Mail</string>
+	<string name="password">Password</string>
+	<string name="authenticating">Authenticating...</string>
+	<string name="leave">Leave the application?</string>
+	<string name="ok">OK</string>
+	<string name="cancel">Cancel</string>
+	<string name="appcNetwork">LOG IN BELOW WITH YOUR APPCELERATOR.COM CREDENTIALS</string>
+	<string name="noAppcNetwork">Need an account? Get one here ></string>
+	<string name="login">LOG IN</string>
+	<string name="logout">LOG OUT</string>
+	<string name="loginError">Login Error</string>
+	<string name="loginErrorText">Oops! There was a problem logging in to your developer account. Please check your e-mail and password and try again.</string>
+	<string name="logoutError">Sign Out Error</string>
+	<string name="logoutErrorText">We were unable to reach our servers to end your session.  Please check your network connection and try again.</string>
+	<string name="uhwhat">I don't have any of those...</string>
+	<string name="alreadyDid">I already signed up with a new account.</string>
+	<string name="thatscool">No account? That's cool, sign up here instead...</string>
+	<string name="ohnice">Already have an account? Sweet, log in here.</string>
+	<string name="signup">Sign Up</string>
+	<string name="forgot">Forgot your password?</string>
+	<string name="networkErrTitle">Network Access Required</string>
+	<string name="networkErrMsg">It looks like your device is not connected to the internet. Please check your network settings and try again.</string>
+	<string name="networkGenericErrorTitle">Network Error</string>
+	
+	<string name="venueCaps">VENUE</string>
+	<string name="thirdFloor">3RD FLOOR</string>
+	<string name="fourthFloor">4TH FLOOR</string>
+	
+	<string name="agendaCaps">AGENDA</string>
+	<string name="sun">SUN</string>
+	<string name="mon">MON</string>
+	<string name="tue">TUE</string>
+	<string name="sunday">SUNDAY</string>
+	<string name="monday">MONDAY</string>
+	<string name="tuesday">TUESDAY</string>
+	<string name="sessionData">Fetching session data...</string>
+	<string name="agendaNetworkError">We were unable to retrieve session data at this time.  Please check you network connection.</string>
+	
+	<string name="featuredSponsors">FEATURED SPONSORS</string>
+	<string name="sponsorHeader">SPECIAL THANKS TO OUR SPONSORS!</string>
+	
+	<string name="attachPhoto">Attach A Photo...</string>
+	<string name="camera">From Camera</string>
+	<string name="photoGallery">From Photo Gallery</string>
+	<string name="updateSuccessTitle">Oh yeah!</string>
+	<string name="updateSuccessText">Your update has been posted - thanks for sharing!</string>
+	<string name="updateErrorTitle">Whoops!</string>
+	<string name="updateErrorText">There was an error sending your update. Please try again later.</string>
+	<string name="mediaErrorTitle">Error Capturing Media</string>
+	<string name="mediaErrorText">There was a problem capturing media from your chosen source - please try again.</string>
+	<string name="tooLong">Status Update Too Long</string>
+	<string name="tooLongMessage">You've clearly got a lot to say, but keep it under 140 characters for Twitter okay?  Thanks!</string>
+	
+	<string name="activityStream">ACTIVITY STREAM</string>
+	<string name="activityStreamError">There was an error loading the latest activity stream - please try again later.</string>
+	
+	<string name="myProfile">MY PROFILE</string>
+	<string name="chooseAvatar">Choose a Profile Photo...</string>
+	<string name="connectTwitter">Connect to Twitter</string>
+	<string name="connectFacebook">Connect to Facebook</string>
+	<string name="disconnectTwitter">Disconnect from Twitter</string>
+	<string name="disconnectFacebook">Disconnect from Facebook</string>
+	
+	<string name="working">COLLECTING DATA IN DIGITAL RAIN BARRELS...</string>
+	<string name="loadingLatest">LOADING LATEST UPDATES....</string>
+	
+	<string name="aboutOneOne">This application was built with Appcelerator, the number one platform for cloud service-enabled mobile applications.</string>  
+	<string name="aboutOneTwo">The natve mobile app was built on Titanium, the open source SDK for creating pure native applications in JavaScript.</string>
+	<string name="aboutOneThree">The back end for this app is implemented using Appcelerator Cloud Services, bar-none the fastest way to add a scalable, feature-rich back end to your mobile apps with no server-side code.</string>  
+	<string name="aboutOneFour">Application logic was developed using Alloy, a component-oriented client side MVC framework for Titanium that provides declarative markup for native UI, separation of concerns, and a predictable project structure for Titanium applications</string>
+	<string name="source">OPEN SOURCE</string>
+	<string name="aboutTwo">This application is open source under the Apache 2.0 License, and is available for download at http://bit.ly/codestrong_src</string>
+	<string name="specialThanks">SPECIAL THANKS</string>
+	<string name="aboutThree">We'd like to also give special thanks to Maria Iu, Greg DiPaolo, Monica Malone, Lisa Kohn, Tony Lukasavage, Fred Spencer, Kevin Whinnery, and the rest of the Appcelerator team that helped make this application possible. Code Strong!</string>
+
+	<string name="pinch">Pinch to zoom on this photo</string>
+	<string name="gravatar">Your Appcelerator account uses Gravatar - change this photo at gravatar.com</string>
+
+</resources>
+

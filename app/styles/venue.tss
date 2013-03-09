@@ -1,0 +1,50 @@
+'#maps': {
+	top:'55dp',
+	left:'10dp',
+	right:'10dp',
+	bottom:'10dp'
+},
+
+'#scroller': {
+	zoomScale:0.5,
+	maxZoomScale:4,
+	minZoomScale:0.25,
+	scrollType:'horizontal',
+	contentWidth:1376,
+	contentHeight:553
+},
+
+'#scroller[formFactor=tablet]': {
+	zoomScale:1
+},
+
+'#venue': {
+	image:'/img/venue/venue-3rd-floor.png'
+},
+
+'#venueMaps': {
+	layout:'vertical'
+},
+
+'.venueHeader': {
+	top:'10dp',
+	bottom:'10dp'
+},
+
+'#venueThird': {
+	bottom:'10dp',
+	image:'/img/venue/venue-3rd-floor.png'
+},
+
+'#venueFourth': {
+	bottom:'10dp',
+	image:'/img/venue/venue-4th-floor.png'
+},
+
+'.mapContainer': {
+	layout:'vertical',
+	top:'10dp',
+	left:'10dp',
+	right:'10dp',
+	height:Ti.UI.SIZE
+}
